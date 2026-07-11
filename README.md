@@ -45,4 +45,4 @@ npm install
 npm run deploy
 ```
 
-In the GitHub repository settings, set **Pages** source to the `gh-pages` branch. The Vite relative asset base is already configured for project pages.
+In the GitHub repository settings, set **Pages** source to the `gh-pages` branch. The deploy command uses Git's subtree publishing, which works reliably on Windows. The Vite relative asset base is already configured for project pages.
