@@ -1,1 +1,56 @@
-[{ "company": "Your Company", "role": "QA Engineer", "period": "2023 — Present", "summary": "Own quality strategy across web and API releases, balancing automation coverage with focused exploratory testing.", "highlights": ["Built maintainable API and UI regression suites", "Partnered with product and engineering on release confidence", "Reduced feedback loops through CI-integrated testing"] }, { "company": "Previous Company", "role": "Quality Assurance Engineer", "period": "2021 — 2023", "summary": "Delivered reliable testing for customer-facing features in a collaborative agile team.", "highlights": ["Created clear test plans for complex releases", "Improved defect triage and reporting practices", "Mentored teammates on practical automation"] }]
+[
+  {
+    "company": "Asuuki Private Limited / Infosys",
+    "role": "Senior QA Engineer",
+    "period": "03/2025 – 02/2026",
+    "summary": "Led offshore Analytics QA for Spectrum News & Sports across mobile, connected TV, and web platforms, using AI-assisted workflows to strengthen coverage and shorten regression cycles.",
+    "highlights": [
+      "Led offshore Analytics QA across Android, iOS, Apple TV, Roku TV, Xumo, and Web, collaborating with architects, developers, QA, and business stakeholders on holistic quality solutions.",
+      "Designed and vibe-coded a GenAI-powered Python, LLM, and n8n agent that pulled JIRA requirements and generated draft test cases, reducing manual authoring time by 20% and surfacing coverage gaps earlier.",
+      "Built a GitHub Copilot-integrated n8n agent to accelerate Spectrum regression automation scripting; iterative prompt tuning reduced hallucinated and duplicate steps.",
+      "AI-assisted agents shortened test-case creation and scripting cycles, supporting a 20% reduction in the regression cycle and freeing time for exploratory testing.",
+      "Performed requirement gathering, risk-based test planning, and technical decision-making for critical business flows; reviewed AI-generated tests with human-in-the-loop validation.",
+      "Performed API validation, end-to-end testing, Charles Proxy analysis, and Go-Live support; maintained Python, SauceLabs, and Appium Client regression automation.",
+      "Maintained a zero production-bug escape rate across releases and coordinated Go-Live and post-deployment support with leads and client stakeholders.",
+      "Validated complete user journeys from content discovery through playback across Android, iOS, Apple TV, Roku TV, Xumo, and Web in an Agile delivery model."
+    ]
+  },
+  {
+    "company": "Datawens Technologies",
+    "role": "QA Engineer",
+    "period": "07/2023 – 03/2025",
+    "summary": "Sole QA for IoT devices and the WaterCompass platform, combining risk-based testing, automation, and direct client communication to improve release confidence.",
+    "highlights": [
+      "Partnered with developers and business stakeholders on requirement gathering and solution design as the sole QA for IoT devices and WaterCompass.",
+      "Built Robot Framework automation suites in an Agile process and used GitHub Actions for automated execution pipelines.",
+      "Used ChatGPT to generate initial test cases, then refined them through human-in-the-loop review while maintaining a zero high-severity escape rate across releases.",
+      "Designed end-to-end test plans for API stories, database validation, and WaterCompass functionality across device telemetry, API, database, and front-end layers.",
+      "Conducted sprint-end demos and client touchpoints covering test coverage, defect status, and release readiness.",
+      "Reduced regression time by 10% through Robot Framework and Python automation; developed API performance-test scripts using JMeter.",
+      "Tested physical controllers and water meters for telemetry accuracy; performed AWS and DBeaver data validation and managed TestRail cases derived from JIRA and Confluence requirements."
+    ]
+  },
+  {
+    "company": "Newage Software and Solutions",
+    "role": "QA Engineer",
+    "period": "06/2021 – 07/2023",
+    "summary": "Delivered end-to-end quality for a freight-forwarding ERP platform across functional, API, database, and mobile experiences.",
+    "highlights": [
+      "Collaborated with Product Owners and UX designers to derive high-level positive and negative test scenarios for the Newage NXT ERP platform.",
+      "Tested import and export workflows across functional, API, and mobile layers using Swagger, Postman, MySQL, and PostgreSQL.",
+      "Tested Android mobile applications with BrowserStack and physical devices.",
+      "Published and managed test cases in JIRA AIO Test Management and led comprehensive Agile-sprint test execution cycles.",
+      "Received the WOW Tester Award in 2021 for outstanding testing contributions and ownership of deliverables."
+    ]
+  },
+  {
+    "company": "Sutherland Global Services",
+    "role": "QA Associate",
+    "period": "12/2019 – 06/2021",
+    "summary": "Supported high-quality, timely delivery for Norton LifeLock through functional web testing, clear defect reporting, and structured test-case development.",
+    "highlights": [
+      "Performed functional web-application testing aligned to requirements and delivery timelines.",
+      "Created test cases and reported defects with clear, actionable detail for the Norton LifeLock product."
+    ]
+  }
+]
