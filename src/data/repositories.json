@@ -1,0 +1,15 @@
+[
+  {
+    "name": "JIRA Testcase Generation",
+    "description": "An AI-assisted workflow that generates positive and negative test cases from JIRA requirements and acceptance criteria.",
+    "url": "https://github.com/alfred5112-code/JIRA_TC_GEN",
+    "language": "Python"
+  },
+  {
+    "name": "Steam Player Tracker",
+    "description": "An AI agent that compares player counts for the top Steam games and produces a summary report.",
+    "url": "https://github.com/alfred5112-code/SteamPlayerAgent",
+    "language": "Python"
+  }
+  
+]

@@ -1,0 +1,695 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 15456
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 38.4 744.84 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 3 Tm /F2 18 Tf 21 TL (Infant Alfred Joy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 731.84 cm
+q
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 2 Tm /F1 11 Tf 13 TL (Senior QA Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 720.34 cm
+q
+BT 1 0 0 1 0 2.2 Tm 10.5 TL /F1 8.3 Tf .266667 .266667 .266667 rg (alfredr.5112@gmail.com  ) Tj (|) Tj (  +91 9003080481  ) Tj (|) Tj (  Chennai, India  ) Tj (|) Tj (  linkedin.com/in/infant-alfred-joy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 718.34 cm
+Q
+q
+1 0 0 1 38.4 716.34 cm
+q
+1 w
+1 J
+.121569 .219608 .388235 RG
+n 0 0 m 535.2 0 l S
+Q
+Q
+q
+1 0 0 1 38.4 701.84 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.2 Tm /F2 10.3 Tf 11.5 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 639.74 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 52.4 Tm /F1 8.2 Tf 10.1 TL (Senior QA Engineer with 6+ years of experience in Functional, API, Mobile, IoT, and Automation Testing across Media, Smart Water Management,) Tj T* (Logistics, and Cybersecurity domains. Skilled in requirement gathering, solution design, risk-based testing, and building automation frameworks) Tj T* (using Robot Framework, Python, Appium, and Selenium. Proven track record collaborating with cross-functional teams -- architects, developers,) Tj T* (QA, and business stakeholders -- to deliver holistic, client-focused solutions using Agile methodologies. Regularly leverage Generative AI \(GenAI\)) Tj T* (tools including GitHub Copilot, ChatGPT, and LLMs to generate test scenarios, accelerate automation, and build agentic workflows with strong) Tj T* (human-in-the-loop validation. Experienced in post-deployment support, client communication, and data-driven decision-making.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 625.24 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.2 Tm /F2 10.3 Tf 11.5 TL (ROLES AND RESPONSIBILITIES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.4 611.74 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.3 Tf 11.5 TL (Senior QA Engineer, Infosys / Charter Communications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 381.6 .5 cm
+q
+BT 1 0 0 1 0 3.2 Tm 42.378 0 Td 11.5 TL /F3 8.3 Tf .266667 .266667 .266667 rg (03/2025 \226 02/2026) Tj T* -42.378 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 38.4 591.84 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 591.84 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Led offshore Analytics QA across Android, iOS, Apple TV, Roku TV, Xumo and Web, collaborating with cross-functional teams -- architects,) Tj T* (developers, QA, and business stakeholders -- to deliver holistic quality solutions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 571.94 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 571.94 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Designed and vibe-coded a GenAI-powered agent \(Python + LLM / n8n\) to pull requirements directly from JIRA and auto-generate draft test) Tj T* (cases, reducing manual test case authoring time by 20% and surfacing coverage gaps earlier in the sprint.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 552.04 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 552.04 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Built a GitHub Copilot-integrated agent using n8n to accelerate automation script generation for the Spectrum regression suite; refined the agent) Tj T* (through iterative prompt tuning, correcting hallucinated/duplicate test steps to improve output accuracy and reduce manual QA rework.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 532.14 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 532.14 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (AI-assisted agents shortened test case creation and scripting cycles, freeing time for exploratory testing and complex regression scenarios --) Tj T* (supporting a 20% regression cycle reduction on the project.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 512.24 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 512.24 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Engaged in requirement gathering, risk-based test planning, and technical decision-making for critical business flows aligned to client business) Tj T* (goals; reviewed AI-generated test cases using human-in-the-loop validation before implementation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 492.34 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 492.34 cm
+q
+BT 1 0 0 1 12 11.4 Tm 9.7 TL /F1 8 Tf .133333 .133333 .133333 rg (Performed API validation, end-to-end testing, Charles Proxy analysis, and Go-Live support; built and maintained regression automation scripts) Tj T* (using Python, SauceLabs, and Appium Client for the Spectrum News & Sports applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 472.44 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 472.44 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Maintained a zero production bug escape rate across releases; coordinated Go-Live testing and post-deployment support with project leads and) Tj T* (client stakeholders.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 452.54 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 452.54 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL -0.0172 Tw (Performed end-to-end testing across Android, iOS, Apple TV, Roku TV, Xumo, and Web platforms in an Agile delivery model, validating complete) Tj T* 0 Tw (user journeys from content discovery through playback.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.4 438.54 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.3 Tf 11.5 TL (QA Engineer, Datawens Technologies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 381.6 .5 cm
+q
+BT 1 0 0 1 0 3.2 Tm 42.378 0 Td 11.5 TL /F3 8.3 Tf .266667 .266667 .266667 rg (07/2023 \226 03/2025) Tj T* -42.378 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 38.4 418.64 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 418.64 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Sole QA for IoT devices and the WaterCompass platform, partnering with developers and business stakeholders on requirement gathering and) Tj T* (solution design.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 398.74 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 398.74 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Applied risk-based testing and built Robot Framework automation suites within an Agile delivery process, using GitHub Actions for automated) Tj T* (execution pipelines.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 378.84 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 378.84 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Used ChatGPT \(GenAI\) to generate initial test cases from requirements and refined them manually with human-in-the-loop review, maintaining a) Tj T* (zero high-severity escape rate across every release.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 358.94 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 358.94 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Designed and executed end-to-end test plans covering API stories, database validation, and functionality for the WaterCompass application,) Tj T* (spanning device telemetry, API, database, and front-end layers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 348.74 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 -2.3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 348.74 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 1.7 Tm /F1 8 Tf 9.7 TL (Conducted sprint-end demos and client communication touchpoints, showcasing test coverage, defect status, and release readiness.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 328.84 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 328.84 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Reduced regression cycle time by 10% through automation of repetitive test suites using Robot Framework and Python; developed API) Tj T* (performance test scripts using JMeter.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 308.94 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 308.94 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Executed IoT and device-level testing using physical controllers and water meters to validate telemetry data accuracy; performed AWS/DBeaver) Tj T* (data validation prior to release, and managed test cases in TestRail derived from JIRA and Confluence requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.4 294.94 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.3 Tf 11.5 TL (QA Engineer, Newage Software and Solutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 381.6 .5 cm
+q
+BT 1 0 0 1 0 3.2 Tm 42.378 0 Td 11.5 TL /F3 8.3 Tf .266667 .266667 .266667 rg (06/2021 \226 07/2023) Tj T* -42.378 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 38.4 275.04 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 275.04 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Collaborated with Product Owners and UX designers to derive high-level test scenarios for the Newage NXT ERP platform, covering positive and) Tj T* (negative flows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 255.14 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 255.14 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Conducted end-to-end testing of the freight forwarding ERP platform, validating import/export workflows across functional, API, and mobile layers) Tj T* (using Swagger, Postman, MySQL, and PostgreSQL.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 244.94 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 -2.3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 244.94 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 1.7 Tm /F1 8 Tf 9.7 TL (Tested Android mobile applications using BrowserStack and physical devices.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 234.74 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 -2.3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 234.74 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 1.7 Tm /F1 8 Tf 9.7 TL (Published and managed test cases in JIRA AIO Test Management; led comprehensive test execution cycles within Agile sprints.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 224.54 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 -2.3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 224.54 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 1.7 Tm /F1 8 Tf 9.7 TL (Received the WOW Tester Award \(2021\) for outstanding testing contributions and ownership of deliverables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.4 210.54 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 .5 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 2.2 Tm /F2 9.3 Tf 11.5 TL (QA Associate, Sutherland Global Services) Tj T* ET
+Q
+Q
+q
+1 0 0 1 381.6 .5 cm
+q
+BT 1 0 0 1 0 3.2 Tm 42.378 0 Td 11.5 TL /F3 8.3 Tf .266667 .266667 .266667 rg (12/2019 \226 06/2021) Tj T* -42.378 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 38.4 190.64 cm
+BT /F1 12 Tf 14.4 TL ET
+.176471 .458824 .713725 rg
+BT 1 0 0 1 0 7.4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 48.4 190.64 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 12 11.4 Tm /F1 8 Tf 9.7 TL (Performed functional web application testing, defect reporting, and test case development for Norton LifeLock, ensuring high-quality, timely) Tj T* (delivery aligned to requirements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 176.14 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.2 Tm /F2 10.3 Tf 11.5 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.4 59.94 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 104.5 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8 Tf 9.7 TL (AI-Assisted QA / GenAI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126 94.8 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 11.4 Tm /F1 8 Tf 9.7 TL (ChatGPT, GitHub Copilot, Amazon Q, Prompt Engineering, LLM Fundamentals, RAG Concepts,) Tj T* (Agentic Workflows \(n8n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 84.1 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8 Tf 9.7 TL (Programming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126 84.1 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8 Tf 9.7 TL (Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 73.4 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8 Tf 9.7 TL (CI/CD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126 73.4 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8 Tf 9.7 TL (GitHub Actions, GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 62.7 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8 Tf 9.7 TL (Databases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126 62.7 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8 Tf 9.7 TL (MySQL, PostgreSQL, AWS, DBeaver) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 52 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8 Tf 9.7 TL (Automation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126 52 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8 Tf 9.7 TL (Robot Framework, Selenium, Appium, JMeter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 41.3 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8 Tf 9.7 TL (API Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126 41.3 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8 Tf 9.7 TL (REST APIs, Postman, Swagger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 30.6 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8 Tf 9.7 TL (Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126 20.9 cm
+q
+BT 1 0 0 1 0 11.4 Tm 9.7 TL /F1 8 Tf .133333 .133333 .133333 rg (Requirement Gathering, Solution Design, Risk-Based Testing, Test Design, Functional, Regression,) Tj T* (API, End-to-End, UAT, Smoke, Mobile & IoT Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 10.2 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.7 TL /F2 8 Tf .121569 .219608 .388235 rg (Delivery & Collaboration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126 .5 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 11.4 Tm /F1 8 Tf 9.7 TL (Agile Methodologies, Cross-Functional Collaboration, Client Communication, Post-Deployment) Tj T* (Support, Data-Driven Decision-Making) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 38.4 45.44 cm
+q
+.121569 .219608 .388235 rg
+BT 1 0 0 1 0 1.2 Tm /F2 10.3 Tf 11.5 TL (PROFESSIONAL DEVELOPMENT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 34.24 cm
+q
+BT 1 0 0 1 12 1.7 Tm 9.7 TL /F1 8 Tf .133333 .133333 .133333 rg (\177 Amazon Q Workshop \226 AI-assisted Software Development & Testing  ) Tj (|) Tj (  Business Analysis Fundamentals, Udemy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.4 24.04 cm
+q
+BT 1 0 0 1 12 1.7 Tm 9.7 TL /F1 8 Tf .133333 .133333 .133333 rg (\177 Complete Python Bootcamp, Udemy  ) Tj (|) Tj (  Software Testing, Q-Spider) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+36.4 718.8219 535.2 12.3 re
+f*
+0.266667 0.266667 0.266667 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 38.4 722.1219 Tm
+(alfredr\0565112\100gmail\056com \174 \05391 9003080481 \174 Chennai\054 India \174 linkedin\056com\057in\057infant\055alfred\055joy \174 github\056com\057alfred5112\055code \174 alfred5112\055code\056github\056io\057portfolio) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000405 00000 n 
+0000015914 00000 n 
+0000016021 00000 n 
+0000016128 00000 n 
+0000016240 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+16355
+%%EOF
