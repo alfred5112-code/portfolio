@@ -1,1 +1,0 @@
-async function o(t){const e=await fetch(`https://api.github.com/users/${t}/repos?sort=updated&per_page=100`);if(!e.ok)throw new Error("GitHub is unavailable right now.");return(await e.json()).filter(r=>!r.fork).slice(0,6)}export{o as getFeaturedRepositories};
